@@ -1,6 +1,6 @@
 {
-  "name": "@cypress/skip-test",
-  "version": "0.0.0-development",
+  "name": "@cypress/skip-test-skip-on",
+  "version": "0.0.1",
   "description": "Simple commands to skip a test based on platform, browser or an url",
   "main": "index.js",
   "types": "index.d.ts",
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cypress-io/cypress-skip-test.git"
+    "url": "git@github.com:Darex1991/cypress-skip-test.git"
   },
   "bugs": {
-    "url": "https://github.com/cypress-io/cypress-skip-test/issues"
+    "url": "https://github.com/Darex1991/cypress-skip-test/issues"
   },
-  "homepage": "https://github.com/cypress-io/cypress-skip-test#readme",
+  "homepage": "https://github.com/Darex1991/cypress-skip-test#readme",
   "files": [
     "index.js",
     "index.d.ts",
