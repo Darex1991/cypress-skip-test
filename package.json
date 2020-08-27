@@ -1,6 +1,6 @@
 {
   "name": "cypress-skip-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple commands to skip a test based on platform, browser or an url",
   "main": "index.js",
   "types": "index.d.ts",
