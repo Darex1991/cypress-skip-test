@@ -1,5 +1,5 @@
 {
-  "name": "@cypress/skip-test-skip-on",
+  "name": "cypress-skip-test",
   "version": "0.0.1",
   "description": "Simple commands to skip a test based on platform, browser or an url",
   "main": "index.js",
